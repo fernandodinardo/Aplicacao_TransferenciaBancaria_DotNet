@@ -1,0 +1,13 @@
+D:\devs\Csharp\DIO_Bank\Dio.Bank\bin\Debug\netcoreapp3.1\Dio.Bank.exe
+D:\devs\Csharp\DIO_Bank\Dio.Bank\bin\Debug\netcoreapp3.1\Dio.Bank.deps.json
+D:\devs\Csharp\DIO_Bank\Dio.Bank\bin\Debug\netcoreapp3.1\Dio.Bank.runtimeconfig.json
+D:\devs\Csharp\DIO_Bank\Dio.Bank\bin\Debug\netcoreapp3.1\Dio.Bank.runtimeconfig.dev.json
+D:\devs\Csharp\DIO_Bank\Dio.Bank\bin\Debug\netcoreapp3.1\Dio.Bank.dll
+D:\devs\Csharp\DIO_Bank\Dio.Bank\bin\Debug\netcoreapp3.1\Dio.Bank.pdb
+D:\devs\Csharp\DIO_Bank\Dio.Bank\obj\Debug\netcoreapp3.1\Dio.Bank.csprojAssemblyReference.cache
+D:\devs\Csharp\DIO_Bank\Dio.Bank\obj\Debug\netcoreapp3.1\Dio.Bank.AssemblyInfoInputs.cache
+D:\devs\Csharp\DIO_Bank\Dio.Bank\obj\Debug\netcoreapp3.1\Dio.Bank.AssemblyInfo.cs
+D:\devs\Csharp\DIO_Bank\Dio.Bank\obj\Debug\netcoreapp3.1\Dio.Bank.csproj.CoreCompileInputs.cache
+D:\devs\Csharp\DIO_Bank\Dio.Bank\obj\Debug\netcoreapp3.1\Dio.Bank.dll
+D:\devs\Csharp\DIO_Bank\Dio.Bank\obj\Debug\netcoreapp3.1\Dio.Bank.pdb
+D:\devs\Csharp\DIO_Bank\Dio.Bank\obj\Debug\netcoreapp3.1\Dio.Bank.genruntimeconfig.cache
